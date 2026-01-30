@@ -6,8 +6,11 @@ Bu proje, Unity ile geliştirdiğim bir "Yapay Zeka Zindanda" fantezisi. Ajanım
 
 ## Neler Yaptım?
 *Procedural Generation:* Her oyunda farklı oda dizilimleri ve koridorlar.
+
 *A Pathfinding:* Ajan, en kısa yolu hesaplayarak dinamik engeller arasından geçer.
+
 *FSM (Kafasına Göre Takılan AI):* Ajan; canı yerindeyse kaçar, canı azsa "agresif" moda geçer ve köşeye sıkışırsa savaşır.
+
 *UI/HUD:* Can barı, mermi sayacı ve kazanma/yeniden başlatma ekranları.
 
  [ENG]
@@ -16,6 +19,9 @@ This is a Unity project where an AI agent tries to survive in a procedurally gen
 
 ## Features
 *Dungeon Generator:* No two runs are the same. Random rooms, random corridors, every time.
+
 *A Pathfinding:* The agent doesn't just wander around; it calculates the smartest path to the goal.
+
 *Smart FSM:* An AI with "moods." It flees when healthy but goes into "beast mode" (aggressive) when things get tight.
+
 *Full UI:* Working health bars, ammo counters, and a "Win" screen that actually shows up when it's supposed to.
