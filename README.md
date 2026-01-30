@@ -15,7 +15,7 @@ Bu proje, Unity ile geliştirdiğim bir "Yapay Zeka Zindanda" fantezisi. Ajanım
 This is a Unity project where an AI agent tries to survive in a procedurally generated dungeon. It’s basically a "smart" agent trying to solve a "random" maze while managing its health and ammo.
 
 ## Features
-*Dungeon Generator: * No two runs are the same. Random rooms, random corridors, every time.
+*Dungeon Generator:* No two runs are the same. Random rooms, random corridors, every time.
 *A Pathfinding:* The agent doesn't just wander around; it calculates the smartest path to the goal.
 *Smart FSM:* An AI with "moods." It flees when healthy but goes into "beast mode" (aggressive) when things get tight.
 *Full UI:* Working health bars, ammo counters, and a "Win" screen that actually shows up when it's supposed to.
