@@ -1,4 +1,4 @@
-#Artifical Intelligence in Computer Games
+# Artifical Intelligence in Computer Games
 
 [TR]
 ## Özet
