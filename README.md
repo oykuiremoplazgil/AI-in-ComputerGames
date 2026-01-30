@@ -4,7 +4,7 @@
 ## Özet
 Bu proje, Unity ile geliştirdiğim bir "Yapay Zeka Zindanda" fantezisi. Ajanımız her seferinde farklı (rastgele) oluşan odaların içine düşüyor. Amacı; A* algoritmasını kullanarak en kısa yoldan hedefe gitmek ama bu sırada mermisini idareli kullanması ve canına göre taktik yapması gerekiyor.
 
-##Neler Yaptım?
+## Neler Yaptım?
 *Procedural Generation:* Her oyunda farklı oda dizilimleri ve koridorlar.
 *A Pathfinding:* Ajan, en kısa yolu hesaplayarak dinamik engeller arasından geçer.
 *FSM (Kafasına Göre Takılan AI):* Ajan; canı yerindeyse kaçar, canı azsa "agresif" moda geçer ve köşeye sıkışırsa savaşır.
